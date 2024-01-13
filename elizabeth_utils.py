@@ -6,7 +6,7 @@ company_name: str = "EA Consulting Services"
 count_active_projects: int = 5
 has_international_presence: bool = False
 average_client_satisfaction: float = 4.7
-services_offered: list = ["Power Bi to Tableau Migration", "Data modelling", "Data Visualization", "Expert Placement and Recruiting"]
+services_offered: list = ["Power Bi to Tableau Migration", "Data modelling", "Data Visualization", "Expert Placement Recruiting"]
 satisfaction_scores: list = [4.8, 4.6, 4.9, 5.0, 4.7]
 
 #using formatted strings
