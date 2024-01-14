@@ -14,7 +14,7 @@ count_active_projects = 5
 has_international_presence = False
 average_client_satisfaction = 4.7
 services_offered = ["Rebranding", "Logo Design", "Proposal Writeups"]
-satisfaction_scores = [4.8, 4.6, 4.9, 5.0, 4.7]
+satisfaction_scores = [4.8, 4.6, 4.9, 5.0, 4.7, 8.3, 0.7, .27,.32]
 
 # Statistics calculations
 smallest = min(satisfaction_scores)
